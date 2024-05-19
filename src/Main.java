@@ -1,5 +1,5 @@
 import Entity.Board.Board;
-import Entity.Judge;
+import Entity.Judge.Judge;
 import Entity.Piece.PieceType;
 import Entity.Player.Player;
 

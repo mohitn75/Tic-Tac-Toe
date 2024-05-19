@@ -1,4 +1,4 @@
-package Entity.Utils;
+package Utils;
 
 import Entity.Board.Board;
 import Entity.Piece.Piece;
